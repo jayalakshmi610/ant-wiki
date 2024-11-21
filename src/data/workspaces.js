@@ -1,5 +1,3 @@
-import AppData from "./appData";
-
 const workspaces = [
   {
     id: "1",
